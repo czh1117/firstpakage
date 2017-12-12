@@ -1,2 +1,0 @@
-# firstpakage
-hello github.
